@@ -48,7 +48,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 29 奈良県 https://smb.optgeo.org/ipfs/Qmbc1Yn1z9h7Jy4CrHASZ6kEk1MaqbXhdSbZsYs3wndikh?filename=29.fgb
 - 30 和歌山県 https://smb.optgeo.org/ipfs/QmWToATXZJjadoJGNffzUmXUiaKWbpxixnQK51FShsu1uv?filename=30.fgb
 - 31 鳥取県 https://smb.optgeo.org/ipfs/QmT8bXoR4ef4PDm9paXAjkzcd9h6W41jYgWTy9KioDbUi7?filename=31.fgb
-- 32 島根県 https://smb.optgeo.org/ipfs/XXX?filename=32.fgb
+- 32 島根県 https://smb.optgeo.org/ipfs/QmeNQZ1Z5US2BZPppjFNMGd86AhfbxMVHyyjByh7tXKckQ?filename=32.fgb
 - 33 岡山県 https://smb.optgeo.org/ipfs/XXX?filename=33.fgb
 - 34 広島県 https://smb.optgeo.org/ipfs/XXX?filename=34.fgb
 - 35 山口県 https://smb.optgeo.org/ipfs/XXX?filename=35.fgb
@@ -58,7 +58,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 39 高知県 https://smb.optgeo.org/ipfs/XXX?filename=39.fgb
 - 40 福岡県 https://smb.optgeo.org/ipfs/XXX?filename=40.fgb
 - 41 佐賀県 https://smb.optgeo.org/ipfs/XXX?filename=41.fgb
-- 42 長崎県 https://smb.optgeo.org/ipfs/XXX?filename=42.fgb
+- 42 長崎県 https://smb.optgeo.org/ipfs/QmaiYYAP5Ux6cCPMP6zk8rs1kkmbgKk4daBicKLfUXzjBT?filename=42.fgb
 - 43 熊本県 https://smb.optgeo.org/ipfs/QmSjUNWi9VHWX5ZvYUNpsacAPA1QxaA1ywL7jhWaS4hFrP?filename=43.fgb
 - 44 大分県 https://smb.optgeo.org/ipfs/XXX?filename=44.fgb
 - 45 宮崎県 https://smb.optgeo.org/ipfs/XXX?filename=45.fgb
