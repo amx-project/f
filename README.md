@@ -4,6 +4,14 @@ FlatGeobuf project for UN Smart Maps Bazaar, a part of amx-project
 ## 仕様
 a-spec 仕様のデータと同様、地物属性に「任意座標」の文字が含まれていればスキップする。
 
+## 目的
+地図XMLデータにQGISを対応させることが目的。
+ベクトルデータのクラウドネイティブインタフェースは、
+第一にPMTilesであり、第二にFlatGeobufである、という仮説を検証するように
+プロトタイピングを進めていく。
+結果として、クラシックなベクトルタイルインタフェースの提供をディスコンティニュー
+していくという選択肢のフィージビリティを検証する。
+
 ## 変換スクリプト
 [convert.py](convert.py)
 
@@ -35,7 +43,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 24 三重県 https://smb.optgeo.org/ipfs/XXX?filename=24.fgb
 - 25 滋賀県 https://smb.optgeo.org/ipfs/XXX?filename=25.fgb
 - 26 京都府 https://smb.optgeo.org/ipfs/XXX?filename=26.fgb
-- 27 大阪府 https://smb.optgeo.org/ipfs/XXX?filename=27.fgb
+- 27 大阪府 https://smb.optgeo.org/ipfs/QmTA6FRJQfFfBBnLnfjZuiQHJF8dsGDqoYdVbMoqs5YkRd?filename=27.fgb
 - 28 兵庫県 https://smb.optgeo.org/ipfs/XXX?filename=28.fgb
 - 29 奈良県 https://smb.optgeo.org/ipfs/XXX?filename=29.fgb
 - 30 和歌山県 https://smb.optgeo.org/ipfs/XXX?filename=30.fgb
