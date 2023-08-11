@@ -1,7 +1,7 @@
 import glob
 
 MOJ = '~/.pyenv/shims/mojxml2geojson'
-k = '30wakayama'
+k = '06yamagata'
 pref = k[0:2]
 
 def convert(path):

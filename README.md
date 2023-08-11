@@ -18,7 +18,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 ## プロダクトリスト（作成中）
 - 00 全国
 - 01 北海道 https://smb.optgeo.org/ipfs/QmXpiNewTADFF84GDHCo6qrRQUpQpLdSSi45gTxbSdcAp6?filename=01.fgb
-- 02 青森県 https://smb.optgeo.org/ipfs/XXX?filename=02.fgb
+- 02 青森県 https://smb.optgeo.org/ipfs/QmRtGiXbm9emHtTLJmY9UZV1aboeU5KxWCax94tx3QrvNa?filename=02.fgb
 - 03 岩手県 https://smb.optgeo.org/ipfs/XXX?filename=03.fgb
 - 04 宮城県 https://smb.optgeo.org/ipfs/QmW2sYCuH7zBV1uJKXM23BJcoJ6rT3PiMiTjr3T6xSnaKT?filename=04.fgb
 - 05 秋田県 https://smb.optgeo.org/ipfs/XXX?filename=05.fgb
@@ -42,11 +42,11 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 23 愛知県 https://smb.optgeo.org/ipfs/XXX?filename=23.fgb
 - 24 三重県 https://smb.optgeo.org/ipfs/XXX?filename=24.fgb
 - 25 滋賀県 https://smb.optgeo.org/ipfs/XXX?filename=25.fgb
-- 26 京都府 https://smb.optgeo.org/ipfs/XXX?filename=26.fgb
+- 26 京都府 https://smb.optgeo.org/ipfs/QmRre3kBVRorLqjfGxfoWFuGUG1qe1juRBt6S6JUszLvQ6?filename=26.fgb
 - 27 大阪府 https://smb.optgeo.org/ipfs/QmTA6FRJQfFfBBnLnfjZuiQHJF8dsGDqoYdVbMoqs5YkRd?filename=27.fgb
 - 28 兵庫県 https://smb.optgeo.org/ipfs/XXX?filename=28.fgb
 - 29 奈良県 https://smb.optgeo.org/ipfs/XXX?filename=29.fgb
-- 30 和歌山県 https://smb.optgeo.org/ipfs/XXX?filename=30.fgb
+- 30 和歌山県 https://smb.optgeo.org/ipfs/QmWToATXZJjadoJGNffzUmXUiaKWbpxixnQK51FShsu1uv?filename=30.fgb
 - 31 鳥取県 https://smb.optgeo.org/ipfs/XXX?filename=31.fgb
 - 32 島根県 https://smb.optgeo.org/ipfs/XXX?filename=32.fgb
 - 33 岡山県 https://smb.optgeo.org/ipfs/XXX?filename=33.fgb
