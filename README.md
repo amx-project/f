@@ -17,13 +17,13 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 
 ## プロダクトリスト（作成中）
 - 00 全国
-- 01 北海道 https://smb.optgeo.org/ipfs/XXX?filename=01.fgb
+- 01 北海道 https://smb.optgeo.org/ipfs/QmXpiNewTADFF84GDHCo6qrRQUpQpLdSSi45gTxbSdcAp6?filename=01.fgb
 - 02 青森県 https://smb.optgeo.org/ipfs/XXX?filename=02.fgb
 - 03 岩手県 https://smb.optgeo.org/ipfs/XXX?filename=03.fgb
-- 04 宮城県 https://smb.optgeo.org/ipfs/XXX?filename=04.fgb
+- 04 宮城県 https://smb.optgeo.org/ipfs/QmW2sYCuH7zBV1uJKXM23BJcoJ6rT3PiMiTjr3T6xSnaKT?filename=04.fgb
 - 05 秋田県 https://smb.optgeo.org/ipfs/XXX?filename=05.fgb
 - 06 山形県 https://smb.optgeo.org/ipfs/XXX?filename=06.fgb
-- 07 福島県 https://smb.optgeo.org/ipfs/XXX?filename=07.fgb
+- 07 福島県 https://smb.optgeo.org/ipfs/Qme4a83ChyGj9ePqVCWpZ97JHRHhp74Ma4CnHYby4W8h7h?filename=07.fgb
 - 08 茨城県 https://smb.optgeo.org/ipfs/XXX?filename=08.fgb
 - 09 栃木県 https://smb.optgeo.org/ipfs/XXX?filename=09.fgb
 - 10 群馬県 https://smb.optgeo.org/ipfs/XXX?filename=10.fgb
@@ -53,17 +53,17 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 34 広島県 https://smb.optgeo.org/ipfs/XXX?filename=34.fgb
 - 35 山口県 https://smb.optgeo.org/ipfs/XXX?filename=35.fgb
 - 36 徳島県 https://smb.optgeo.org/ipfs/XXX?filename=36.fgb
-- 37 香川県 https://smb.optgeo.org/ipfs/XXX?filename=37.fgb
+- 37 香川県 https://smb.optgeo.org/ipfs/QmZEDGMeCL3AwxvSdi74rf6QVwwAc9umPpfRsqv8TXdQXg?filename=37.fgb
 - 38 愛媛県 https://smb.optgeo.org/ipfs/XXX?filename=38.fgb
 - 39 高知県 https://smb.optgeo.org/ipfs/XXX?filename=39.fgb
 - 40 福岡県 https://smb.optgeo.org/ipfs/XXX?filename=40.fgb
 - 41 佐賀県 https://smb.optgeo.org/ipfs/XXX?filename=41.fgb
 - 42 長崎県 https://smb.optgeo.org/ipfs/XXX?filename=42.fgb
-- 43 熊本県 https://smb.optgeo.org/ipfs/XXX?filename=43.fgb
+- 43 熊本県 https://smb.optgeo.org/ipfs/QmSjUNWi9VHWX5ZvYUNpsacAPA1QxaA1ywL7jhWaS4hFrP?filename=43.fgb
 - 44 大分県 https://smb.optgeo.org/ipfs/XXX?filename=44.fgb
 - 45 宮崎県 https://smb.optgeo.org/ipfs/XXX?filename=45.fgb
 - 46 鹿児島県 https://smb.optgeo.org/ipfs/XXX?filename=46.fgb
-- 47 沖縄県 https://smb.optgeo.org/ipfs/XXX?filename=47.fgb
+- 47 沖縄県 https://smb.optgeo.org/ipfs/QmXiDShxbMokFHWW1eKsqS4YeHHjUM91Xj7i8M87RiDZvy?filename=47.fgb
 
 ## （参考）最初のサンプル
 https://smb.optgeo.org/ipfs/QmNd4DHgWLkKWLB4PpfCtEUWjEEAVycnm43RYErWWm9uYp?filename=07204-3805-10.fgb
