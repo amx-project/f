@@ -21,7 +21,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 02 青森県 https://smb.optgeo.org/ipfs/QmRtGiXbm9emHtTLJmY9UZV1aboeU5KxWCax94tx3QrvNa?filename=02.fgb
 - 03 岩手県 https://smb.optgeo.org/ipfs/QmWnaxC8ZYT9xX6C5HeRbbrX4osvUvqtd1rNG7Lcc1i9a7?filename=03.fgb
 - 04 宮城県 https://smb.optgeo.org/ipfs/QmW2sYCuH7zBV1uJKXM23BJcoJ6rT3PiMiTjr3T6xSnaKT?filename=04.fgb
-- 05 秋田県 https://smb.optgeo.org/ipfs/XXX?filename=05.fgb
+- 05 秋田県 https://smb.optgeo.org/ipfs/QmRvVsqXTMkrL6Umt3RsS2GAdkTyUqyKT7vtFVUG75awAt?filename=05.fgb
 - 06 山形県 https://smb.optgeo.org/ipfs/QmbQuoW6VYsJvotVpSZbUVHC1T6J5yPoshxHHFrKuQ2iUE?filename=06.fgb
 - 07 福島県 https://smb.optgeo.org/ipfs/Qme4a83ChyGj9ePqVCWpZ97JHRHhp74Ma4CnHYby4W8h7h?filename=07.fgb
 - 08 茨城県 https://smb.optgeo.org/ipfs/XXX?filename=08.fgb
@@ -37,7 +37,7 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 18 福井県 https://smb.optgeo.org/ipfs/XXX?filename=18.fgb
 - 19 山梨県 https://smb.optgeo.org/ipfs/XXX?filename=19.fgb
 - 20 長野県 https://smb.optgeo.org/ipfs/XXX?filename=20.fgb
-- 21 岐阜県 https://smb.optgeo.org/ipfs/XXX?filename=21.fgb
+- 21 岐阜県 https://smb.optgeo.org/ipfs/QmPeyZ7FgjDN143p3u9Dnu68qUyRedFRajkcJAXQgoQYrD?filename=21.fgb
 - 22 静岡県 https://smb.optgeo.org/ipfs/XXX?filename=22.fgb
 - 23 愛知県 https://smb.optgeo.org/ipfs/XXX?filename=23.fgb
 - 24 三重県 https://smb.optgeo.org/ipfs/XXX?filename=24.fgb
