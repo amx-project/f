@@ -19,17 +19,17 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 00 全国
 - 01 北海道 https://smb.optgeo.org/ipfs/QmXpiNewTADFF84GDHCo6qrRQUpQpLdSSi45gTxbSdcAp6?filename=01.fgb
 - 02 青森県 https://smb.optgeo.org/ipfs/QmRtGiXbm9emHtTLJmY9UZV1aboeU5KxWCax94tx3QrvNa?filename=02.fgb
-- 03 岩手県 https://smb.optgeo.org/ipfs/XXX?filename=03.fgb
+- 03 岩手県 https://smb.optgeo.org/ipfs/QmWnaxC8ZYT9xX6C5HeRbbrX4osvUvqtd1rNG7Lcc1i9a7?filename=03.fgb
 - 04 宮城県 https://smb.optgeo.org/ipfs/QmW2sYCuH7zBV1uJKXM23BJcoJ6rT3PiMiTjr3T6xSnaKT?filename=04.fgb
 - 05 秋田県 https://smb.optgeo.org/ipfs/XXX?filename=05.fgb
-- 06 山形県 https://smb.optgeo.org/ipfs/XXX?filename=06.fgb
+- 06 山形県 https://smb.optgeo.org/ipfs/QmbQuoW6VYsJvotVpSZbUVHC1T6J5yPoshxHHFrKuQ2iUE?filename=06.fgb
 - 07 福島県 https://smb.optgeo.org/ipfs/Qme4a83ChyGj9ePqVCWpZ97JHRHhp74Ma4CnHYby4W8h7h?filename=07.fgb
 - 08 茨城県 https://smb.optgeo.org/ipfs/XXX?filename=08.fgb
 - 09 栃木県 https://smb.optgeo.org/ipfs/XXX?filename=09.fgb
 - 10 群馬県 https://smb.optgeo.org/ipfs/XXX?filename=10.fgb
 - 11 埼玉県 https://smb.optgeo.org/ipfs/XXX?filename=11.fgb
 - 12 千葉県 https://smb.optgeo.org/ipfs/XXX?filename=12.fgb
-- 13 東京都 https://smb.optgeo.org/ipfs/XXX?filename=13.fgb
+- 13 東京都 https://smb.optgeo.org/ipfs/QmWRZe5qAiPD5JiXFsGHE9jBxn2qKJPBsDErsfQ5L9qMDP?filename=13.fgb
 - 14 神奈川県 https://smb.optgeo.org/ipfs/XXX?filename=14.fgb
 - 15 新潟県 https://smb.optgeo.org/ipfs/XXX?filename=15.fgb
 - 16 富山県 https://smb.optgeo.org/ipfs/XXX?filename=16.fgb
@@ -44,10 +44,10 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 - 25 滋賀県 https://smb.optgeo.org/ipfs/XXX?filename=25.fgb
 - 26 京都府 https://smb.optgeo.org/ipfs/QmRre3kBVRorLqjfGxfoWFuGUG1qe1juRBt6S6JUszLvQ6?filename=26.fgb
 - 27 大阪府 https://smb.optgeo.org/ipfs/QmTA6FRJQfFfBBnLnfjZuiQHJF8dsGDqoYdVbMoqs5YkRd?filename=27.fgb
-- 28 兵庫県 https://smb.optgeo.org/ipfs/XXX?filename=28.fgb
-- 29 奈良県 https://smb.optgeo.org/ipfs/XXX?filename=29.fgb
+- 28 兵庫県 https://smb.optgeo.org/ipfs/QmVxuFX8ZrDg2menoQE9X5yEMgQr2Fg2duGVP8wJR1SjDK?filename=28.fgb
+- 29 奈良県 https://smb.optgeo.org/ipfs/Qmbc1Yn1z9h7Jy4CrHASZ6kEk1MaqbXhdSbZsYs3wndikh?filename=29.fgb
 - 30 和歌山県 https://smb.optgeo.org/ipfs/QmWToATXZJjadoJGNffzUmXUiaKWbpxixnQK51FShsu1uv?filename=30.fgb
-- 31 鳥取県 https://smb.optgeo.org/ipfs/XXX?filename=31.fgb
+- 31 鳥取県 https://smb.optgeo.org/ipfs/QmT8bXoR4ef4PDm9paXAjkzcd9h6W41jYgWTy9KioDbUi7?filename=31.fgb
 - 32 島根県 https://smb.optgeo.org/ipfs/XXX?filename=32.fgb
 - 33 岡山県 https://smb.optgeo.org/ipfs/XXX?filename=33.fgb
 - 34 広島県 https://smb.optgeo.org/ipfs/XXX?filename=34.fgb
