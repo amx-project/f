@@ -1,5 +1,6 @@
 # f
 FlatGeobuf project for UN Smart Maps Bazaar, a part of amx-project
+![social preview image](https://repository-images.githubusercontent.com/676716548/abb7497c-df25-4632-bd34-c0104feca503)
 
 ## 仕様
 a-spec 仕様のデータと同様、地物属性に「任意座標」の文字が含まれていればスキップする。
