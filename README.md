@@ -14,7 +14,8 @@ a-spec 仕様のデータと同様、地物属性に「任意座標」の文字�
 していくという選択肢のフィージビリティを検証する。
 
 ## デモ
-この[QGIS プロジェクトファイル](f.qgz)をQGISで開いてください。
+- この[QGIS プロジェクトファイル](f.qgz)をQGISで開いてください。
+- Spatial Bookmarks - Project Bookmarks に Hondo, Amakusa というブックマークを入れています。このブックマークを使うとソーシャルプレビュー通りのビューが再現できると思います。
 
 ## 変換スクリプト
 [convert.py](convert.py)
