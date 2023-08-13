@@ -3,6 +3,18 @@ FlatGeobuf project for UN Smart Maps Bazaar, a part of amx-project
 ![social preview image](https://repository-images.githubusercontent.com/676716548/abb7497c-df25-4632-bd34-c0104feca503)
 
 ## 目的
+### en
+The purpose of this project was to **make QGIS compatible with Map XML data**.
+
+In this project, the goal was to apply Map XML data to QGIS, a geographic information system software, to achieve seamless integration.
+
+Modern geographic data tends to be handled through cloud-native interfaces. Our hypothesis was that PMTiles was a promising cloud-native interface for major vector data, followed by FlatGeobuf. To validate this hypothesis, we progressed with prototyping and evaluated the integration of FlatGeobuf with QGIS.
+
+The outcomes of this project were expected to influence the efficient handling of vector data. Additionally, we considered whether a new cloud-native approach could replace using the traditional vector tile interface ({z}/{x}/{y}) naively with URLs.
+
+As a result, the aim was to achieve innovative evolution in data handling and access methods, bringing forth new possibilities for the paradigm of geographic information systems.
+
+### ja
 このプロジェクトの目的は、**地図XMLデータにQGISを対応させる**です。
 
 このプロジェクトでは、地図のXMLデータをQGISという地理情報システムソフトウェアに適用し、
